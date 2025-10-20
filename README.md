@@ -119,13 +119,6 @@ Building this taught me:
 - Prize pool distribution algorithms
 - WebSocket + blockchain synchronization
 
-## 📈 Metrics (Updated Weekly)
-
-- **Total Players:** [X]
-- **Total Transactions:** [X]
-- **Total SOL Volume:** [X]
-- **Average Game Length:** [X] minutes
-- **Prize Pools Distributed:** [X]
 
 
 ## 📞 Contact
@@ -136,6 +129,6 @@ Building this taught me:
 
 all rights reserverd
 
-
+Full code available for review to serious partners/investors
 ---# eaterfun
 eaterfunporject
