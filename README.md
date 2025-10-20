@@ -1,4 +1,16 @@
+
+
+
+<img width="1025" height="949" alt="image" src="https://github.com/user-attachments/assets/25f1c32b-a8d3-4e17-83c1-305b1e117b8b" />
+
+
+<img width="1858" height="942" alt="image" src="https://github.com/user-attachments/assets/b3336c0c-0365-4902-8759-34b36dd5344c" />
+
+
+
+
 # Eater.fun - Multiplayer P2E Game on Solana
+First of all i have eater.fun domain but backend-frontend buying server is cost me hundreds of $ and i dont have that much money to spend on it so I created cloud flare to players test server on my computer thanks all
 
 https://jean-dark-fit-wendy.trycloudflare.com
 
@@ -119,7 +131,7 @@ Building this taught me:
 - Prize pool distribution algorithms
 - WebSocket + blockchain synchronization
 
-
+You can find gameplay video on my x account also.
 
 ## 📞 Contact
 
