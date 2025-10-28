@@ -31,7 +31,7 @@ Eater.fun is Agar.io meets blockchain. Players control cells, eat smaller player
 
 - **Real-time Multiplayer** - Smooth gameplay with Socket.io
 - **Blockchain Integration** - Every transaction on Solana
-- **Prize Pools** - Top players share rewards every 30 minutes
+- **Prize Pools** - Every player share rewards every 30 minutes according to their score (mass x playing time)
 - **Skill-Based** - Win by strategy, not pay-to-win
 - **Crypto Skins** - Bitcoin, Ethereum, Solana, Pepe, Doge, BNB
 - **Early Exit Penalty** - 80% penalty keeps games competitive
